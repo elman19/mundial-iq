@@ -1,0 +1,1 @@
+# Main ingestion loop with smart polling
