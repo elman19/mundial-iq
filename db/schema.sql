@@ -1,4 +1,4 @@
- # PostgreSQLSchema
+--PostgreSQLSchema
 
  -- =============================================================
 -- Mundial IQ | PostgreSQL Schema
